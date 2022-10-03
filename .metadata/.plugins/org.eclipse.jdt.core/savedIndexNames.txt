@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\acer\Desktop\111-1\Application Program Design\homework\1006\program\app_Lab0\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1327979047.index
+2804456111.index
